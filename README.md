@@ -32,7 +32,7 @@ Some suggestions:
 
 * **Data Entry** - My first job had to change multiple key:pair data in several files.  Parsing the requested changes and then using string manipulation for the change themselves turned my 8-10 hour per day job into a single command that finished in less than a minute.  Not just for big tasks, but anything that can be time consuming for a human to do regularly.  What data do you need to extract, manipulate, or change?
 
-* [~~Census Names~~](https://github.com/fitnr/censusname) **Fork Something** - Not mine, but something I found useful.  Go to Github and find something you can use.  Does it really do *everything* you need?  Well, make it do what you want.  This example is one of the things I use for prose.
+* [~~Census Names~~](https://github.com/fitnr/censusname) **Fork Something** - Not mine, but something I found useful.  Go to Github and find something you can use.  Does it really do *everything* you need?  Well, make it do what you want.  This example is one of the things I use for prose that literally makes "average" names so my character don't become the droll "Andy, Bob, Charles...".
 
 * **Markup** - All markup already has parsers, otherwise there is no reason for the markup to exist in the first place... but does it do what *you* want it to do?  Do you need a table of contents based upon headers in markdown?  Do you need character scripts for fountain?  How about character based dialogue word clouds?  What kind of markup is used in data that you regularly work with?
 
@@ -50,7 +50,7 @@ Some suggestions (part  deux):
 
 * **Connect The Scripts/Programs** - Great!  Got a script for Python projects, another for Django, another for shell, one for screenplays, another for my website...  Now, in addition to all the stuff you have to remember to call yourself a programmer, you also need to remember all those silly little script names you came up with.  Automate all of that, and while you are at it, make it sexy and interactive.
 
-* **Project Actions** - Most things you do on your computer are rarely a single action, but several actions done in order.  Regenerate your template website locally, inspect, send it upstream and have your server regenerate it.  Compile your markdown in multiple formats and inspect the results.  Compile code, test, make changes in git, send it upstream.
+* **Project Actions** - Most things you do on your computer are rarely a single action, but several actions done in order.  Regenerate your template website locally, inspect, send it upstream and have your server regenerate it.  Compile your markdown in multiple formats, inspect the results, send two different parsed results to two different people.  Compile code, test, make changes in git, send it upstream.  This is endless.
 
 * **Environment Itself** - Do you check for updates... do you check changelogs before updating?  That could be useful to automate.  How about when you add a function to your shell environment, or add to the $PATH... do you have to reload it, or can you automate that?  Do these changes exist in every shell you use in case you may be thinking of changing to a different one?  Do you have to google unicode, or do you have a function that will (heh) parse a text file with unicode and descriptions so you can plug in whatever you want without leaving?
 
@@ -58,7 +58,7 @@ Some suggestions (part  deux):
 
 Now you can play programmer pokemon and **EVOLVE**!
 
-All the stuff you are using, make it better^(TM)!  Use functions and generators.  Use config files and templates.  Use functions... or classes.  Split the big stuff into smaller, modular stuff that is easier to handle.  Include interactive help and documentation.  Give them menus.  Give them interactivity.  Give them a UI.
+All the stuff you are using, make it better^ (TM)!  Use functions and generators.  Use config files and templates.  Use functions... or classes.  Split the big stuff into smaller, modular stuff that is easier to handle.  Include interactive help and documentation.  Give them menus.  Give them interactivity.  Give them a UI.
 
 Get an idea!
 
