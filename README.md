@@ -60,7 +60,7 @@ Now you can play programmer pokemon and **EVOLVE**!
 
 All the stuff you are using, make it better™!  Use functions and generators.  Use config files and templates.  Use functions... or classes.  Split the big stuff into smaller, modular stuff that is easier to handle.  Include interactive help and documentation.  Give them menus.  Give them interactivity.  Give them a UI.
 
-Get an idea!
+:game_die:Get an idea!
 
 In addition to the parsing and automation tasks that are built around things I personally performed regularly, I have a go-to for every new language I learn.  I make a dice roller for my tabletop games.  It usually follows this pattern;
 
