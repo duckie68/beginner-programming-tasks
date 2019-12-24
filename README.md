@@ -58,7 +58,7 @@ Some suggestions (part  deux):
 
 Now you can play programmer pokemon and **EVOLVE**!
 
-All the stuff you are using, make it better^TM !  Use functions and generators.  Use config files and templates.  Use functions... or classes.  Split the big stuff into smaller, modular stuff that is easier to handle.  Include interactive help and documentation.  Give them menus.  Give them interactivity.  Give them a UI.
+All the stuff you are using, make it better™!  Use functions and generators.  Use config files and templates.  Use functions... or classes.  Split the big stuff into smaller, modular stuff that is easier to handle.  Include interactive help and documentation.  Give them menus.  Give them interactivity.  Give them a UI.
 
 Get an idea!
 
